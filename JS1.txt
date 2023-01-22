@@ -1,0 +1,11 @@
+1. Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP stands for Hyper Text Transfer Protocal. The version of HHTP is called HTTP 1.1. HTTP is designed to enable commuication between client and server. 
+The client (browser) has to send a request to the server using the method (GET/POST).
+
+HTTP 2 is the updated version of HTTP 1.1. The major feature that differentiates HTTP/2 from HTTP/1.1 is the binary framing layer
+
+2. Write a blog about objects and its internal representation in Javascript
+
+Object is the one of the datatype in Javascript. This is the most important datatype and forms the building blocks for modern javascript. In object we can all kind of datatypes i.e. Number, String, Array
+An object is  a reference data types. we can using methods inside an object.
